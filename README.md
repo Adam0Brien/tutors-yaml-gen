@@ -51,5 +51,18 @@ json:
 
 
 ## Example generated course
-
 ![Agile course](img/tutors-agile.png)
+
+## Example generated topic
+![Agile topic](img/tutors-topic.png)
+
+## Example generated talk
+![Agile talk](img/tutors-talk.png)
+
+## Example generated book
+![Agile book](img/tutors-book.png)
+
+
+
+
+
