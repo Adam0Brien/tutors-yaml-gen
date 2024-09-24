@@ -1,0 +1,82 @@
+calendar.yaml: []
+course.md: ["# Course Overview", "This course provides a comprehensive understanding of Agile methodologies, including Scrum and Kanban, and their application in real-world scenarios."]
+'course.png': []
+json:
+  calendar.yaml: []
+  'course.png': []
+  index.html: []
+  netlify.toml: []
+  properties.yaml: []
+  topic-01-introduction-to-agile:
+    'agile.png': []
+    'typical.md': ["# Introduction to Agile", "Agile is a set of principles that encourage adaptive planning, evolutionary development, early delivery, and continuous improvement. It promotes flexible responses to change."]
+    unit-1:
+      'main.md': ["# Unit 1: Introduction", "This unit introduces the core concepts of Agile and its benefits."]
+      talk-1-agile-overview:
+        'Agile&Scrum.pdf': []
+        'agile.png': []
+        'agile-overview.md': ["# Agile Overview", "Agile is a methodology that encourages iterative development, where requirements and solutions evolve through collaboration between cross-functional teams."]
+      talk-2-agile-details:
+        'Agile&Scrum.pdf': []
+        'agile-detailed.png': []
+        'agile-details.md': ["# Agile Details", "Agile methodologies include frameworks like Scrum and Kanban, which help teams manage complex projects efficiently. In this talk, we will dive deeper into these frameworks."]
+      
+  topic-02-scrum-methodology:
+    'scrum.png': []
+    'typical.md': ["# Scrum Methodology", "Scrum is a lightweight framework that helps teams work together. It encourages teams to learn through experiences, self-organize while working on a problem, and reflect on wins and losses to improve continuously."]
+    unit-1:
+      'main.md': ["# Unit 1: Scrum Methodology", "This unit covers the basic concepts of Scrum, including roles, events, and artifacts."]
+      talk-1-scrum-basics:
+        'Agile&Scrum.pdf': []
+        'scrum.png': []
+        'scrum-basics.md': ["# Scrum Basics", "Scrum is founded on empirical process control theory, or empiricism. It asserts that knowledge comes from experience and making decisions based on what is known."]
+      talk-2-scrum-visuals:
+        'Agile&Scrum.pdf': []
+        'scrum-visual.png': []
+        'scrum-visuals.md': ["# Scrum Visuals", "Scrum uses visual tools such as burndown charts and task boards to track progress and improve communication within the team."]
+      book-a-scrum-board:
+        archives:
+          'archive.zip': []
+        img:
+          'scrum-board.png': []
+        '00.Section1.md': ["# Section 1: Scrum Board Overview", "A Scrum board is a visual representation of the team's work progress. It helps track tasks and sprints visually."]
+        '01.Section2.md': ["# Section 2: Using the Scrum Board", "This section explains how to use a Scrum board effectively for managing tasks and tracking progress."]
+        '02.Section3.md': ["# Section 3: Benefits of the Scrum Board", "Using a Scrum board provides transparency, fosters communication, and helps the team stay on track with project goals."]
+        '03.Section4.md': ["# Section 4: Customizing the Scrum Board", "Learn how to customize your Scrum board to fit your team's workflow and project requirements."]
+        '04.Section5.md': ["# Section 5: Common Pitfalls", "This section covers common mistakes teams make when using Scrum boards and how to avoid them."]
+  topic-03-kanban-methodology:
+    'kanban.png': []
+    'typical.md': ["# Kanban Methodology", "Kanban is a visual management method that helps teams manage and improve workflow. It enables teams to visualize work, limit work-in-progress, and maximize efficiency."]
+    unit-1:
+      'main.md': ["# Unit 1: Kanban Methodology", "This unit introduces Kanban and how it can be used to manage workflow and improve efficiency."]
+      talk-1-kanban-overview:
+        'Agile&Scrum.pdf': []
+        'kanban.png': []
+        'kanban-overview.md': ["# Kanban Overview", "Kanban is a method for managing knowledge work with an emphasis on just-in-time delivery and the reduction of work-in-progress. The goal is to improve team efficiency and effectiveness."]
+  topic-04-agile-tools:
+    'jira.png': []
+    'typical.md': ["# Agile Tools", "There are various tools available to help teams implement Agile methodologies. These tools facilitate task management, progress tracking, and team collaboration."]
+    unit-1:
+      'main.md': ["# Unit 1: Agile Tools Overview", "This unit provides an overview of tools like JIRA, Trello, and others that can assist in Agile project management."]
+      talk-1-jira-overview:
+        'Agile&Scrum.pdf': []
+        'jira.png': []
+        'jira-overview.md': ["# JIRA Overview", "JIRA is a popular tool used by Agile teams to plan, track, and release software. It helps teams manage their projects efficiently by providing tools for issue tracking and Agile project management."]
+  topic-05-sprint-planning:
+    'sprints.png': []
+    'typical.md': ["# Sprint Planning", "Sprint planning is an event in the Scrum framework where the team decides on the work to be done during the upcoming sprint. It ensures everyone understands the goals and the work required to achieve them."]
+    unit-1:
+      'main.md': ["# Unit 1: Sprint Planning", "This unit covers the process and best practices for effective sprint planning."]
+      talk-1-sprint-overview:
+        'Agile&Scrum.pdf': []
+        'sprints.png': []
+        'sprint-overview.md': ["# Sprint Overview", "A sprint is a short, time-boxed period where a Scrum team works to complete a set amount of work. This talk covers the fundamentals of sprints and how to plan them effectively."]
+  topic-06-scrum-artifacts:
+    'scrum-backlog.png': []
+    'typical.md': ["# Scrum Artifacts", "Scrum artifacts provide key information that the Scrum team and stakeholders need to understand the product being developed, the planned activities, and the status of the project."]
+    unit-1:
+      'main.md': ["# Unit 1: Scrum Artifacts", "This unit covers the main Scrum artifacts, including the Product Backlog, Sprint Backlog, and Increment."]
+      talk-1-scrum-backlog:
+        'Agile&Scrum.pdf': []
+        'scrum-backlog.png': []
+        'scrum-backlog.md': ["# Scrum Backlog", "The Scrum backlog is a prioritized list of work for the development team that is derived from the roadmap and its requirements. This talk explains how to effectively manage and refine the backlog."]

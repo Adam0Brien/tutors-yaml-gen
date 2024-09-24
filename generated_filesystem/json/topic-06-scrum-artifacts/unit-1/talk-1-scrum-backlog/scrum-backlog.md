@@ -1,0 +1,2 @@
+# Scrum Backlog
+The Scrum backlog is a prioritized list of work for the development team that is derived from the roadmap and its requirements. This talk explains how to effectively manage and refine the backlog.

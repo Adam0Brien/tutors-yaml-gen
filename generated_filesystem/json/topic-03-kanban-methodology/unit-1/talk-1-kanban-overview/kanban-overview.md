@@ -1,0 +1,2 @@
+# Kanban Overview
+Kanban is a method for managing knowledge work with an emphasis on just-in-time delivery and the reduction of work-in-progress. The goal is to improve team efficiency and effectiveness.

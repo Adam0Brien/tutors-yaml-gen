@@ -1,0 +1,2 @@
+# Sprint Planning
+Sprint planning is an event in the Scrum framework where the team decides on the work to be done during the upcoming sprint. It ensures everyone understands the goals and the work required to achieve them.

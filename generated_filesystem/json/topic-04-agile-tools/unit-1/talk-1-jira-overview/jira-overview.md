@@ -1,0 +1,2 @@
+# JIRA Overview
+JIRA is a popular tool used by Agile teams to plan, track, and release software. It helps teams manage their projects efficiently by providing tools for issue tracking and Agile project management.
