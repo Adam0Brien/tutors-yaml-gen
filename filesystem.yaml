@@ -15,7 +15,7 @@ json:
       talk-1-agile-overview:
         'Agile&Scrum.pdf': []
         'agile.png': []
-        'agile-overview.md': ["# Agile Overview", "Agile is a methodology that encourages iterative development, where requirements and solutions evolve through collaboration between cross-functional teams."]
+        'agile-overview.md': ["agile-overew"]
       talk-2-agile-details:
         'Agile&Scrum.pdf': []
         'agile-detailed.png': []
@@ -29,7 +29,7 @@ json:
       talk-1-scrum-basics:
         'Agile&Scrum.pdf': []
         'scrum.png': []
-        'scrum-basics.md': ["# Scrum Basics", "Scrum is founded on empirical process control theory, or empiricism. It asserts that knowledge comes from experience and making decisions based on what is known."]
+        'scrum-basics.md': ["scrum-basics"]
       talk-2-scrum-visuals:
         'Agile&Scrum.pdf': []
         'scrum-visual.png': []
