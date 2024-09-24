@@ -5,8 +5,8 @@ This project is designed to create a structured file system for tutors courses b
 
 ## Features
 - **Automated Directory and File Creation**: Generates a hierarchical file structure for each `topic`, `unit`, and `talk` based on the YAML configuration.
-- **Content Population**: Populates markdown files with content defined in the YAML file, allowing for predefined instructional material and notes.
-- **Asset Management**: Copies assets such as images, PDFs, and other resources from a specified assets directory to the corresponding locations in the generated file system.
+- **Content Population**: Populates files with content defined `assets/markdown` that can be called in the YAML file, allowing for predefined instructional material and notes.
+- **Asset Management**: Copies assets such as images, PDFs, and markdown from a specified assets directory to the corresponding locations in the generated file system.
 - **Customizable Structure**: Allows for flexible course design by modifying the YAML structure, enabling the creation of different course layouts and content.
 
 
