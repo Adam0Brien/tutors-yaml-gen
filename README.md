@@ -48,3 +48,8 @@ json:
               '01.Section2.md': ["using-scrum"] ## assets/markdown/using-scrum
 
 ```
+
+
+## Example generated course
+
+![Agile course](img/tutors-agile.png)
