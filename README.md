@@ -38,13 +38,13 @@ json:
       talk-1-agile-overview:
         'Agile&Scrum.pdf': []
         'agile.png': []
-        'agile-overview.md': ["# Agile Overview", "Agile is a methodology that encourages iterative development."]
+        'agile-overview.md': ["agile-overview"] ## assets/markdown/agile-overview.md
       book-a-scrum-board:
               archives:
                 'archive.zip': []
               img:
                 'scrum-board.png': []
-              '00.Section1.md': ["# Section 1: Scrum Board Overview", "A Scrum board is a visual representation of the team's work progress."]
-              '01.Section2.md': ["# Section 2: Using the Scrum Board", "This section explains how to use a Scrum board effectively for managing tasks and tracking progress."]
+              '00.Section1.md': ["scrum-overview"] ## assets/markdown/scrum-overview
+              '01.Section2.md': ["using-scrum"] ## assets/markdown/using-scrum
 
 ```
